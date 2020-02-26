@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5172" started-at="2020-02-26T10:36:49Z" finished-at="2020-02-26T10:36:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5172" started-at="2020-02-26T10:36:49Z" finished-at="2020-02-26T10:36:54Z">
+      <class name="Tests.ToDoMvcTests">
+        <test-method status="PASS" signature="CompleteATodoItem()[pri:0, instance:Tests.ToDoMvcTests@663c9e7a]" name="CompleteATodoItem" duration-ms="691" started-at="2020-02-26T10:36:49Z" finished-at="2020-02-26T10:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteATodoItem -->
+        <test-method status="PASS" signature="createTodoItem()[pri:0, instance:Tests.ToDoMvcTests@663c9e7a]" name="createTodoItem" duration-ms="1336" started-at="2020-02-26T10:36:50Z" finished-at="2020-02-26T10:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTodoItem -->
+        <test-method status="PASS" signature="editsTodo()[pri:0, instance:Tests.ToDoMvcTests@663c9e7a]" name="editsTodo" duration-ms="1066" started-at="2020-02-26T10:36:51Z" finished-at="2020-02-26T10:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editsTodo -->
+        <test-method status="PASS" signature="removesTodoItem()[pri:0, instance:Tests.ToDoMvcTests@663c9e7a]" name="removesTodoItem" duration-ms="1096" started-at="2020-02-26T10:36:52Z" finished-at="2020-02-26T10:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removesTodoItem -->
+        <test-method status="PASS" signature="showCompleted()[pri:0, instance:Tests.ToDoMvcTests@663c9e7a]" name="showCompleted" duration-ms="196" started-at="2020-02-26T10:36:53Z" finished-at="2020-02-26T10:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showCompleted -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Tests.ToDoMvcTests@663c9e7a]" name="afterClass" is-config="true" duration-ms="724" started-at="2020-02-26T10:36:54Z" finished-at="2020-02-26T10:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Tests.ToDoMvcTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
